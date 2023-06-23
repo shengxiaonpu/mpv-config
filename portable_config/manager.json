@@ -1,0 +1,18 @@
+[
+  {
+    "git":"https://github.com/CogentRedTester/mpv_manager",
+    "whitelist":"%.lua$",
+    "dest":"~~/scripts",
+    "branch":"local-repo-support"
+  },
+  {
+    "git":"https://github.com/po5/thumbfast",
+    "whitelist":"%.lua$",
+    "dest":"~~/scripts"
+  },
+  {
+    "git":"https://github.com/Eisa01/mpv-scripts",
+    "whitelist":"smartcopypaste_*%.lua$",
+    "dest":"~~/scripts"
+  }
+]
